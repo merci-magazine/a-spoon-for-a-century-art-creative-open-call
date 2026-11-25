@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "A Spoon for a Century",
+  "alternateName": ["一匙に託すもの", "一湯匙能承載的"],
+  "description": "An international non-competitive art and creative open call initiated by Merci Magazine and curated by Peggy Lui. A single spoon provides the starting point for personal interpretations of memory, feeling, stories, unfinished dreams and future visions.",
+  "url": "https://www.merci-magazine.com/art-creative-open-call",
+  "inLanguage": ["en", "ja", "zh-Hant"],
+  "datePublished": "2026-11-24",
+  "creator": { "@type": "Organization", "name": "Merci Magazine", "url": "https://www.merci-magazine.com/" },
+  "contributor": { "@type": "Person", "name": "Peggy Lui", "description": "Curator; Founder and Editor-in-Chief of Merci Magazine" },
+  "keywords": ["contemporary art", "open call", "creative expression", "spoon", "art exhibition", "cultural exchange", "brain aneurysm awareness", "Merci Magazine"]
+}

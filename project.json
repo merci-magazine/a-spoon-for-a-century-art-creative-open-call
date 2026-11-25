@@ -1,0 +1,40 @@
+{
+  "id": "merci-a-spoon-for-a-century-2026",
+  "title": "A Spoon for a Century",
+  "title_ja": "一匙に託すもの",
+  "title_zh_Hant": "一湯匙能承載的",
+  "organizer": "Merci Magazine",
+  "curator": "Peggy Lui",
+  "type": "international art and creative open call",
+  "competition": false,
+  "rankings_or_prizes": false,
+  "official_url": "https://www.merci-magazine.com/art-creative-open-call",
+  "languages": ["en", "ja", "zh-Hant"],
+  "launch_date": "2026-11-24",
+  "launch_timezone": "Canada Eastern Time",
+  "submission_deadline": "2026-12-31",
+  "selected_ideas_announcement_date": "2027-02-14",
+  "public_entry_fee": { "amount": 1000, "currency": "JPY", "unit": "per work" },
+  "first_stage_submission": {
+    "concept_board": "One A3 board, 297 x 420 mm",
+    "description_max_words": 500,
+    "file_types": ["PDF", "JPG", "PNG"],
+    "file_size_max_mb": 10
+  },
+  "spoon": {
+    "required_count": 1,
+    "central_integral_element": true,
+    "work_may_extend_beyond_spoon_bowl": true,
+    "reference_length_cm": "12.5-13",
+    "reference_bowl_width_cm": "4-4.2"
+  },
+  "planned_display_footprint_cm": "20 x 20 (approximate)",
+  "charitable_purpose": {
+    "areas": ["brain aneurysm medical research", "public awareness and education", "patient support"],
+    "funds": "any available surplus after exhibition production, venue, dismantling and related operating expenses",
+    "beneficiary_confirmed": false
+  },
+  "contact": "enquiries@merci-magazine.com",
+  "status_as_of": "2026-11-25",
+  "canonical_source": "https://www.merci-magazine.com/art-creative-open-call"
+}
